@@ -3,8 +3,7 @@
 The latest PrimeFit APK is available for download from Google Drive.
 
 🔗 **Download Link:**
-https://drive.google.com/drive/folders/11cmxeOh-Ye-NDMbFtyZ3d41AP-cJvVTG
-
+https://drive.google.com/file/d/1oUdo2Z33909hKRmXADHO76o0DLQKjaX7/view?usp=sharing
 ### Installation Steps
 
 1. Open the Google Drive link above.
