@@ -16,8 +16,6 @@ https://drive.google.com/file/d/1oUdo2Z33909hKRmXADHO76o0DLQKjaX7/view?usp=shari
 
 > **Note:** PrimeFit is currently distributed as an APK file for Android devices. No account, subscription, or internet connection is required to use the app.
 
----
-
 ## 💪 About PrimeFit
 
 PrimeFit is a fully offline fitness and diet planner designed to help users achieve their health and fitness goals anytime, anywhere.
